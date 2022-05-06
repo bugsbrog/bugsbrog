@@ -5,6 +5,9 @@ I am a music lover turned Full Stack Web Development student at Bloom Institute 
 
 My career goal is to work as a Front End Web Developer in a remote environment with a company that is right for me. If you take an opportunity to hire me, it will be worth it because I am a very driven person who works well in picking up new tasks and assignments.
 
+Motto
+:notes: “But, I won’t let them break me down to dust, I know that there’s a place for us, for we are glorious” :notes: -This is Me from The Greatest Showman”
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugsbrog&label=Profile%20views&color=0e75b6&style=flat" alt="bugsbrog" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugsbrog" alt="bugsbrog" /></a> </p>
