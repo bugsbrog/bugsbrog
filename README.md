@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hannah</h1>
-<h3 align="center">A passionate frontend developer from Wyoming</h3>
+<h3 align="center">A passionate Full-Stack developer from Wyoming</h3>
 
 I am a music lover turned Full Stack Web Development student at Bloom Institute of Technology. My love for music started when I was very small. I remember starting piano lessons when I was in 3rd grade and my passion for music has grown since then. After learning all I could learn and achieving so much in music, I made the decision to finish piano lessons in May of 2021 and take a big leap into the Customer Service Industry.
 
