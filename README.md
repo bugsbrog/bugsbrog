@@ -15,7 +15,8 @@ Motto
 
 - 🔭 I’m currently working on [CoderHeroes](https://github.com/bugsbrog/coder-heroes-fe)
 
-- 🌱walle random I’m currently learning **CSS/Figma**
+- 🌱![emojisky com-109976](https://user-images.githubusercontent.com/85898207/167183374-810a2bd7-7f0b-4115-a76e-471a2b8edcd6.png)
+ I’m currently learning **CSS/Figma**
 
 - 💬 Ask me about **Disney, Marvel, Harry Potter, DC or TV/movies and we will be BFFs**
 
