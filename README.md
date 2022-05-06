@@ -7,15 +7,17 @@ My career goal is to work as a Front End Web Developer in a remote environment w
 
 Motto
 
-:notes: “But, I won’t let them break me down to dust, I know that there’s a place for us, for we are glorious” :notes: -This is Me from The Greatest Showman”
+🎶 “But, I won’t let them break me down to dust, I know that there’s a place for us, for we are glorious” 🎶 -This is Me from The Greatest Showman
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugsbrog&label=Profile%20views&color=0e75b6&style=flat" alt="bugsbrog" /> </p>
 
+<p align="left"> <a href="https://twitter.com/hannah_brog" target="blank"><img src="https://img.shields.io/twitter/follow/hannah_brog?logo=twitter&style=for-the-badge" alt="hannah_brog" /></a> </p>
+
 - 🔭 I’m currently working on [CoderHeroes](https://github.com/bugsbrog/coder-heroes-fe)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **CSS/Figma**
 
-- 💬 Ask me about **React, JavaScript or anything else**
+- 💬 Ask me about **Disney, Marvel, Harry Potter, DC or TV/movies and we will be BFFs**
 
 - 📫 How to reach me **bugsbrog@gmail.com**
 
