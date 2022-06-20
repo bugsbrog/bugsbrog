@@ -21,7 +21,7 @@ Motto
 
 - 📫 How to reach me **bugsbrog@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/12ulavBPPjbGQ-chjSHHPaJ8Zg0Af_LYXnKdrjA5bhOg/edit)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1RWY4PL58dFNhlVBEhiOGBe7t0Kur-nqOKWifXShAtuA/edit)
 
 - ⚡ Fun fact **There are more trees on Earth than stars in the Milky Way 🌍 🌌 💫**
 
