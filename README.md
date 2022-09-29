@@ -23,7 +23,7 @@ Motto
 
 - 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1RWY4PL58dFNhlVBEhiOGBe7t0Kur-nqOKWifXShAtuA/edit)
 
-- ⚡ Fun fact **There are more trees on Earth than stars in the Milky Way 🌍 🌌 💫**
+- ⚡ Fun fact: **There are more trees on Earth than stars in the Milky Way 🌍 🌌 💫**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
