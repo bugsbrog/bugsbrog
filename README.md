@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Hannah</h1>
 <h3 align="center">A passionate Full-Stack Developer from Wyoming</h3>
 
-I am a music lover turned Full Stack Web Development student at Bloom Institute of Technology. My love for music started when I was very small. I remember starting piano lessons in 3rd grade and my passion for music has grown. After learning all I could understand and achieving so much in music, I made the decision to finish piano lessons in May of 2021 and take a giant leap into the Customer Service Industry.
+I am a music lover turned Full Stack Web Development student at Bloom Institute of Technology. My love for music started when I was very small. I remember starting piano lessons in 3rd grade and my passion for music has grown. After learning all I could understand and achieving so much in music, I decided to finish piano lessons in May of 2021 and take a giant leap into the Customer Service Industry.
 
 My career goal is to work as a Front End Web Developer in a remote environment with a company that is right for me. If you take the opportunity to hire me, it will be worth it because I am a very driven person who quickly picks up new tasks and assignments.
 
@@ -13,7 +13,7 @@ Motto
 
 <p align="left"> <a href="https://twitter.com/hannah_brog" target="blank"><img src="https://img.shields.io/twitter/follow/hannah_brog?logo=twitter&style=for-the-badge" alt="hannah_brog" /></a> </p>
 
-- 🔭 I’m currently working on school
+- 🔭 I’m currently working on a web intern test.
 
 - 🌱 I’m currently learning **MERN**
 
