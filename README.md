@@ -13,15 +13,15 @@ Motto
 
 <p align="left"> <a href="https://twitter.com/hannah_brog" target="blank"><img src="https://img.shields.io/twitter/follow/hannah_brog?logo=twitter&style=for-the-badge" alt="hannah_brog" /></a> </p>
 
-- 🔭 I’m currently working on a web intern test.
+- 🔭 I’m currently working on finding a job.
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **N/A**
 
 - 💬 Ask me about **Disney, Marvel, Harry Potter, DC, or TV/movies and we will be BFFs**
 
 - 📫 How to reach me **bugsbrog@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1RWY4PL58dFNhlVBEhiOGBe7t0Kur-nqOKWifXShAtuA/edit)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1Db1_mjroUITfpTmZgGTzKiiZAaHsktk8CowRDjApNLA/edit)
 
 - ⚡ Fun fact: **There are more trees on Earth than stars in the Milky Way 🌍 🌌 💫**
 
