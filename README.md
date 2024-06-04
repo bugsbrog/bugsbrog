@@ -13,9 +13,9 @@ Motto
 
 <p align="left"> <a href="https://twitter.com/hannah_brog" target="blank"><img src="https://img.shields.io/twitter/follow/hannah_brog?logo=twitter&style=for-the-badge" alt="hannah_brog" /></a> </p>
 
-- 🔭 I’m currently working on learning TypeScript.
+- 🔭 I’m currently working on **N/A**.
 
-- 🌱 I’m currently learning **N/A**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **Disney, Marvel, Harry Potter, DC, or TV/movies and we will be BFFs**
 
